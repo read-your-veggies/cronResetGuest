@@ -1,0 +1,16 @@
+{
+  "name": "read-your-veggies-watson",
+  "version": "1.0.0",
+  "description": "An app to promote a balanced news diet",
+  "main": "index.js",
+  "author": "HRNYC15 House Slytherin",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "mocha test"
+  },
+  "dependencies": {
+    "mongoose": "^5.2.1"
+  },
+  "devDependencies": {}
+}
